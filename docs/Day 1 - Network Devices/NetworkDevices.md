@@ -14,4 +14,4 @@ Cisco Packet Tracer
 
 ## Configuration Summary
 
-Since this is the first lab, the tasks presented were not especially complex.
+Since this is the first lab, the tasks presented were not especially complex. A network topology diagram of a WAN was setup, comprising of 2 LANS. Each LAN contains its own router, switch, and end devices. The PCs in the New York Branch LAN are
